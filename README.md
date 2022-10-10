@@ -12,17 +12,24 @@ This project aims to see whether and how the transition from *studiefinanciering
 
 ### 1. The data (csv files)
 data_highered_raw.csv	The raw data set
+
 metadata_highered.csv	Metadata for the raw data, including data for decoding
+
 data_neutral.csv		The data after cleaning (no gender distinction)
+
 data_gendered.csv		The data after cleaning (by gender)
+
 - The latter two are generated in Project_cleaning.ipynb
 
 ### 2. SQL workbook
+
 education.sql			A SQL workbook with some exploration of the data
 
 ### 3. Jupyter notebooks
 Project_cleaning.ipynb	First round of data cleaning
+
 data_extraction.ipynb	Second round of data cleaning
+
 more_cleaning.ipynb		Third round of data cleaning
 
 ### 4. Presentation
