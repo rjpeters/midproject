@@ -1,5 +1,5 @@
 # Mid-project: The Bad Luck Generation and Its Choices
-# A project for the Ironhack Data Analytics bootcamp
+## A project for the Ironhack Data Analytics bootcamp
 
 This project aims to see whether and how the transition from *studiefinanciering* to *leenstelsel* in the Netherlands changed the choices that incoming freshmen made. Do we see any significant changes in enrollments for university programs in 2015?
 
