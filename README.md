@@ -1,12 +1,15 @@
 # Mid-project: The Bad Luck Generation and Its Choices
 ## A project for the Ironhack Data Analytics bootcamp
 
+September/October 2022
+Rik Peters
+
+
+## Description
 This project aims to see whether and how the transition from *studiefinanciering* to *leenstelsel* in the Netherlands changed the choices that incoming freshmen made. Do we see any significant changes in enrollments for university programs in 2015?
 
 
-### September/October 2022
 
-### Rik Peters
 
 ## Table of Contents
 
